@@ -1,5 +1,5 @@
 [
-  {"name":"Explain an RPGLE program","category":"RPGLE","summary":"Trace input, business rules, file access, and output in a native RPG program without inventing fields.","path":null},
+  {"name":"Explain an RPGLE program","category":"RPGLE","summary":"Trace input, business rules, file access, and output in a native RPG program without inventing fields.","path":"skills/explain-rpgle-program/SKILL."},
   {"name":"Review embedded SQL","category":"Db2 for i","summary":"Check host variables, SQLCODE handling, cursor lifecycle, and Db2 for i syntax.","path":null},
   {"name":"Diagnose compile messages","category":"RPGLE","summary":"Read the actual compile listing and identify the earliest actionable error.","path":null},
   {"name":"Trace a CLLE job","category":"CLLE","summary":"Follow command calls, library lists, overrides, and job log messages.","path":null},
